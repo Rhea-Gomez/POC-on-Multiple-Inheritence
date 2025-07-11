@@ -1,0 +1,14 @@
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.exe
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.deps.json
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.runtimeconfig.json
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.dll
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.pdb
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.AssemblyInfoInputs.cache
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.AssemblyInfo.cs
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.dll
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\refint\MultipleInheritance.dll
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.pdb
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.genruntimeconfig.cache
+D:\Training\Day11\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\ref\MultipleInheritance.dll
